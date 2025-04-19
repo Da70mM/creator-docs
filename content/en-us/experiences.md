@@ -58,6 +58,7 @@ start creating Roblox experiences.
 </Grid>
 
 <h2 style={{marginBottom: 24, marginTop: 48}}>Play and create with templates</h2>
+![Screenshot_20250407_232956_edit_23914213705355](https://github.com/user-attachments/assets/821444e4-7b15-478f-8dae-6e68ee938d24)
 
 Roblox Studio has a variety of templates that you can edit and play without prior
 knowledge. Give them a try and add on to them when you're ready!
@@ -195,6 +196,7 @@ Learn, share, and interact with the Roblox community in the following places.
   <a href="https://devforum.roblox.com/c/help-and-feedback/54"><Typography variant='buttonLarge' style={{marginBottom: 12}}>Community help and feedback</Typography></a>
 </Grid>
 </Grid>
+  
 <Grid item container Medium={12} Large={6} XLarge={4} direction="row" style={{gap: 24, marginBottom: 12}}>
 <Grid item container wrap="nowrap" direction="column" style={{gap: 8, flex: 1}}>
   <div class="container"
